@@ -1,6 +1,9 @@
 # react-http-status-code
+React HTTP status code allows you to set status codes from react components. This module is developed in TypeScript.
 
-React HTTP status code allows you to set status codes from react components
+This project is a fork from:
+https://github.com/rewop/react-http-status
+
 
 ## Install
 npm install --save react-http-status-code
