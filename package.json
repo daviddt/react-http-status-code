@@ -1,6 +1,6 @@
 {
   "name": "react-http-status-code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React HTTP status code allows you to set status codes from react components",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
